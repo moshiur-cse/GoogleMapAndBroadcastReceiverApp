@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Google Map Example</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="place_api_key">AIzaSyBz0QzCaukHIGO765nkfp7BqEQsPo39Ufo</string>
+
+    <string-array name="bd_divisions">
+        <item>restaurant</item>
+        <item>mosque</item>
+        <item>hospital</item>
+        <item>dentist</item>
+        <item>shopping_mall</item>
+        <item>university</item>
+        <item>post_office</item>
+        <item>laundry</item>
+
+        <item>bank</item>
+        <item>atm</item>
+        <item>beauty_salon</item>
+        <item>amusement_park</item>
+    </string-array>
+
+    <string-array name="radius">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+
+    </string-array>
+
+
+</resources>
